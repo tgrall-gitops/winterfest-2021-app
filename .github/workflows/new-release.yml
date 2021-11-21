@@ -47,7 +47,7 @@ jobs:
       - name: Open PR in Environment Repository for New App Release
         uses: benc-uk/workflow-dispatch@v1.1
         with:
-          workflow: New App Release
+          workflow: "New App Release"
           token: ${{ secrets.GITOPS }}
           inputs: '{"tag_name": "${{ env.TAG_NAME }}", "app_repo": "${{ github.event.repository.name }}", "image": "ghcr.io/${{ github.repository }}:${{github.ref_name}}" }'
           ref: refs/heads/main
