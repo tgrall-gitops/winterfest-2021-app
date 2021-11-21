@@ -24,10 +24,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
-    - run: npm run test-json 
-
-    - uses: dorny/test-reporter@v1
-      with:
-        name: Mocha Tests
-        artifact: test-results       
-        reporter: 'mocha-json'
+    - run: npm test
+    
