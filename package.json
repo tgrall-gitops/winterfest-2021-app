@@ -1,6 +1,6 @@
 {
-  "name": "gitops-app",
-  "version": "0.0.0",
+  "name": "winterfest-2021-app",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",

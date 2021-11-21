@@ -201,7 +201,7 @@
                 <path d="M211,342.579L168,342.579C162.478,342.579,158,347.056,158,352.579C158,358.102,162.478,362.579,168,362.579L211,362.579C216.522,362.579,221,358.102,221,352.579C221,347.056,216.522,342.579,211,342.579Z" transform="translate(189.5,352.579) translate(-189.5,-352.579)"/>
             </g>
         </g>
-        <text fill="#232c30" font-size="4" font-family="Menlo" letter-spacing="0" word-spacing="0" stroke="none" text-anchor="start" font-weight="700" transform="translate(181.367,145.064)" style="line-height: 16px; white-space: pre;">V1.0.0</text>
+        <text fill="#232c30" font-size="4" font-family="Menlo" letter-spacing="0" word-spacing="0" stroke="none" text-anchor="start" font-weight="700" transform="translate(181.367,145.064)" style="line-height: 16px; white-space: pre;">v1.0.1</text>
         <text fill="#232c30" font-size="11" font-family="'Marker Felt'" letter-spacing="0" word-spacing="0" stroke="none" transform="translate(7.94758,20.6395)" style="line-height: 16px; white-space: pre;">Winterfest 2021</text>
     </g>
     <script><![CDATA[/*
