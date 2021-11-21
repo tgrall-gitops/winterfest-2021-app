@@ -28,5 +28,6 @@ jobs:
 
     - uses: dorny/test-reporter@v1
       with:
+        name: Mocha Tests
         artifact: test-results       
         reporter: 'mocha-json'
