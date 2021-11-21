@@ -21,4 +21,5 @@ CMD [ "node", "./bin/www" ]
 LABEL org.opencontainers.image.authors="Winterfest 2021 Development team" \
     org.opencontainers.image.url="${repo_url}" \
     org.opencontainers.image.documentation="${repo_url}/README.md" \
-    org.opencontainers.image.source="${repo_url}"
+    org.opencontainers.image.source="${repo_url}" \
+    org.opencontainers.image.description="Winterfest GitOps Web App - Happy Mona and the GitOps Elf"
