@@ -1,4 +1,4 @@
-# Wintefest 2021 - GitOps Demo - Web App
+# Winterfest 2021 - GitOps Demo - Web App
 
 
 This project contains the application code a `node.js` with a SVG image.
