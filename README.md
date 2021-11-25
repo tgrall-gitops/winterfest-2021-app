@@ -17,3 +17,5 @@ Demo flow:
 2. Merge all the changes in `main`
 3. Create a new Release
  
+
+The Kubernetes used in this demonstration is an Azure Kubernetes Services (AKS) Cluster and the [GitHub Actions are using OpenID Connect to authenticate with Azure](https://github.com/tgrall-gitops/winterfest-2021-env/blob/main/.github/workflows/deploy-to-kube.yml#L31-L36). [Documentation](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect)
